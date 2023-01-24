@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/bluee"
+    tools:context=".frag_1">
+
+    <!--this fragment displays flights and takes us to another activity to create a form-->
+
+
+   <Button
+       android:id="@+id/show_all"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/show"
+       android:textColor="@color/bluee"
+        android:backgroundTint="@color/white"
+       android:layout_centerVertical="true"
+       android:layout_centerHorizontal="true"/>
+
+
+
+</RelativeLayout>

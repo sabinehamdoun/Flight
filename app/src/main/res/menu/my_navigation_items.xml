@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_flights"
+            android:icon="@drawable/ic_baseline_airplanemode_active_24"
+            android:title="@string/flights"/>
+
+        <!--<item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_baseline_place_24"
+            android:title="@string/map"/>-->
+
+        <item
+            android:id="@+id/bud1"
+            android:icon="@drawable/ic_baseline_attach_money_24"
+            android:title="@string/Travel_Budget1"/>
+
+        <item
+            android:id="@+id/bud2"
+            android:icon="@drawable/ic_baseline_attach_money_24"
+            android:title="@string/Travel_Budget2"/>
+
+        <item
+            android:id="@+id/bud3"
+            android:icon="@drawable/ic_baseline_attach_money_24"
+            android:title="@string/Travel_Budget3"/>
+
+
+
+    </group>
+
+</menu>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+        <string name="app_name">حلّق </string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">مرحبا جزء فارغ  </string>
+        <string name="flights">رحلاتي الجوية</string>
+        <string name="map">اكتشف الخريطة </string>
+        <string name="airlines">الخطوط الجوية </string>
+        <string name="wlcm"> اهلا وسهلا!</string>
+        <string name="From">من</string>
+        <string name="to">الى</string>
+        <string name="departure">تاريخ المغادرة </string>
+        <string name="arrival"> تاريخ الوصول</string>
+        <string name="travelClass">درجة السفر </string>
+        <string name="nb">بطاقة تعريف </string>
+        <string name="def_from">من:</string>
+        <string name="def_to">الى:</string>
+        <string name="def_dep">تاريخ المغادرة:</string>
+        <string name="def_arr">تاريخ الوصول:</string>
+        <string name="def_tclass">درجة السفر:</string>
+        <string name="def_id">بطاقة تعريف:</string>
+        <string name="show">الرحلات الجويّة</string>
+        <string name="FLIGHT_FROM">الانطلاق من</string>
+        <string name="City_or_Airport">المطار أو المدينة</string>
+        <string name="FLYING_TO">الوجهة</string>
+        <string name="DEPARTING">المغادرة</string>
+        <string name="RETURNING">الرجوع</string>
+        <string name="TRAVEL_CLASS">درجة السفر</string>
+        <string name="Welcome_Abroad">اهلا بكم!</string>
+        <string name="SAVE">حفظ</string>
+
+        <string name="title">Select your budget below</string>
+        <string name="budget">Select Budget</string>
+        <string name="fragment_title">Flights that correspond to your budget:</string>
+        <string name="from">From:</string>
+        <string name="cost">Cost:</string>
+        <string name="paris">Paris</string>
+        <string name="amsterdam">Amsterdam</string>
+        <string name="beirut">Beirut</string>
+        <string name="antalya">Antalya</string>
+        <string name="dallas">Dallas</string>
+        <string name="cozumel">Cozumel</string>
+        <string name="madrid">Madrid</string>
+        <string name="brussels">Brussels</string>
+        <string name="_220">220$</string>
+        <string name="book">Book</string>
+        <string name="_240">240$</string>
+        <string name="_48">48$</string>
+        <string name="_68">68$</string>
+        <string name="_480">480$</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="_600">600$</string>
+        <string name="Travel_Budget1">Low Budgets</string>
+        <string name="Travel_Budget2">Medium Budgets</string>
+        <string name="Travel_Budget3"> High Budgets</string>
+
+
+        <string-array name="spinner_values">
+            <item>اقتصاد </item>
+            <item>اعمال</item>
+        </string-array>
+
+</resources>
